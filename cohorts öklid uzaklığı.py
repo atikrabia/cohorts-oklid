@@ -21,4 +21,3 @@ min_mesafe = min(mesafeler)
 print(f"Noktalar: {noktalar}")
 print(f"Mesafeler: {mesafeler}")
 print(f"Minimum Mesafe: {min_mesafe}")
-#açıklama
